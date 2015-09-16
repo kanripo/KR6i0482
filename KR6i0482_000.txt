@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說十二頭陀經
+#+DATE: 2015-08-30 20:20:40.981339
+#+PROPERTY: JUAN 0
