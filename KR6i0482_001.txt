@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:40.787052
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:44
 #+TITLE: 佛說十二頭陀經
 #+PROPERTY: CBETA_ID T17n0783
 #+PROPERTY: ID KR6i0482
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 783
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0482_T_000-0720b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0482_T_001-0720b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.783¶
-
- 《佛說十二頭陀經》¶
+No. 783¶
+《佛說十二頭陀經》¶
 ¶
 宋于闐國三藏求那跋陀羅譯¶
 
@@ -56,7 +55,7 @@ No.783¶
 
 「一者、阿蘭若比丘行頭陀時，應作是念：『我今¶
 在此空閑之處，為無上道捨身命財，修三堅¶
-法，死當如𧞣死，不生顧戀。』若至病苦須人¶
+法，死當如𥜒死，不生顧戀。』若至病苦須人¶
 之時，當作是念：『我今一身為法出家，法為我¶
 伴，若勤行法者即是救護，是為阿蘭若法。』行¶
 者本以居家多惱，捨父母妻子出家行道，¶
